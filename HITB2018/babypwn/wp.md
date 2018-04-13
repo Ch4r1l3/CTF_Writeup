@@ -1,6 +1,6 @@
 这题就是最简单的blind pwn
 
-![](https://github.com/charlieleex/CTF_Writeup/blob/master/HITB2018/babypwn/t1.jpg)
+![](https://github.com/charlieleex/CTF_Writeup/blob/master/HITB2018/babypwn/t1.png)
 
 大概反编译之后就是这样
 
