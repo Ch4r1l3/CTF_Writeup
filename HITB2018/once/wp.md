@@ -2,7 +2,7 @@
 
 首先说下程序的功能吧
 
-
+![](https://github.com/charlieleex/CTF_Writeup/blob/master/HITB2018/once/t1.jpg)
 
 第一个是alloc
 里面是一个双向链表的结构
